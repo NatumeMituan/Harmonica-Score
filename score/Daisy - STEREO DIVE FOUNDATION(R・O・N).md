@@ -4,11 +4,11 @@
 
 ## 歌曲信息
 
-- **歌手** [STEREO DIVE FOUNDATION([R・O・N](https://bgm.tv/person/11009))](https://bgm.tv/person/4421)
-- **专辑** [[Daisy](https://bgm.tv/subject/85416)](https://bgm.tv/subject/84532)
-- **作词** STEREO DIVE FOUNDATION([R・O・N](https://bgm.tv/person/11009))https://bgm.tv/person/7970)
+- **歌手** [STEREO DIVE FOUNDATION([R・O・N](https://bgm.tv/person/11009))
+- **专辑** [[Daisy]](https://bgm.tv/subject/84532)
+- **作词** STEREO DIVE FOUNDATION([R・O・N](https://bgm.tv/person/11009))
 - **作曲** STEREO DIVE FOUNDATION([R・O・N](https://bgm.tv/person/11009))
-- **编曲** STEREO DIVE FOUNDATION([R・O・N](https://bgm.tv/person/11009))https://bgm.tv/person/12264)
+- **编曲** STEREO DIVE FOUNDATION([R・O・N](https://bgm.tv/person/11009))
 - **附注** [境界の彼方](https://bgm.tv/subject/49278) (境界的彼方) ED
 - **示范** https://www.bilibili.com/video/BV1Ys411Z7PX
 - **谱源** https://github.com/zytx121/je/issues/448

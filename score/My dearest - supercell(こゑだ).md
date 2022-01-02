@@ -6,7 +6,7 @@
 
 - **歌手** supercell(こゑだ)
 - **附注** ギルティクラウン(罪恶王冠) OP1
-- **示范** https://www.bilibili.com/video/av210070
+- **示范** https://www.bilibili.com/video/BV18x411w7Yx
 
 ---
 
